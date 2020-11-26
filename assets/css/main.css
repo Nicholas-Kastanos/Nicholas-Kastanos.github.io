@@ -1,4 +1,5 @@
 @import url(font-awesome.min.css);
+@import url(academicons.min.css);
 
 /*
 	Prism by TEMPLATED
@@ -2249,6 +2250,15 @@
 				text-decoration: none;
 				padding: 0.65em 0 0 2em;
 			}
+
+				ul.contact li.aix:before{
+					-moz-osx-font-smoothing: grayscale;
+					-webkit-font-smoothing: antialiased;
+					font-family: "Academicons";
+					font-style: normal;
+					font-weight: normal;
+					text-transform: none !important;
+				}
 
 				ul.contact li:before {
 					-moz-osx-font-smoothing: grayscale;
