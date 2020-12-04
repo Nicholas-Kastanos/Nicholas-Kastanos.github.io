@@ -2634,6 +2634,11 @@
 			width: 60%;
 		}
 
+		.spotlight .content-wide {
+			padding: 2em 3em 0.1em 3em;
+			width: 100%;
+		}
+
 		@media screen and (max-width: 980px) {
 
 			.spotlight .image {
